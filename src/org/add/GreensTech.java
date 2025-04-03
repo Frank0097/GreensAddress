@@ -10,6 +10,8 @@ public class GreensTech {
 		GreensTech gt=new GreensTech();
 		gt.greensOmr("chennai");
 		gt.greensOmr("chennai");
+		gt.greensOmr("Trichy");
+
 
 	}
 
